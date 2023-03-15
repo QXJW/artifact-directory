@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Longitudinal Integrative Graphical Medical Application
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Major inefficiencies in healthcare systems today leave patients and clinicians alike wanting for a more effective way of receiving and giving care. We’ve identified two key deficiencies:
+1. the absence of an integrated Electronic Health Record (EHR), lifelog, and personal omics data
+2. the lack of standardization across healthcare systems, data standards, and terminologies.
